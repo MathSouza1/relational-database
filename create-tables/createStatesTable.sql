@@ -1,5 +1,5 @@
 -- CREATING STATES TABLE
-CREATE TABLE states (
+CREATE TABLE IF NOT EXISTS states (
     id INT UNSIGNED NOT NULL AUTO_INCREMENT,
     name VARCHAR(45) NOT NULL,
     uf VARCHAR(2) NOT NULL,
@@ -7,5 +7,5 @@ CREATE TABLE states (
     population DECIMAL(5,2) NOT NULL,
     PRIMARY KEY(id),
     UNIQUE KEY (name),
-    UNIQUE KEY (uf)
-)
+    UNIQUE KEY (uf);
+);
