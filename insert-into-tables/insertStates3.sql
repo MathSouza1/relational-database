@@ -9,7 +9,7 @@ VALUES
     ('Goiás', 'GO', 'Midwest', 6.78),
     ('Maranhao', 'MA', 'Northeast', 7.00),
     ('Mato Grosso', 'MT', 'Midwest', 3.34),
-    ('Mato Grosso do South', 'MS', 'Midwest', 2.71),
+    ('Mato Grosso do Sul', 'MS', 'Midwest', 2.71),
     ('Minas Gerais', 'MG', 'Southeast', 21.12),
     ('Pará', 'PA', 'North', 8.36),
     ('Paraíba', 'PB', 'Northeast', 4.03),
