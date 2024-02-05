@@ -1,0 +1,2 @@
+DELETE FROM states
+WHERE id >= 1000;
