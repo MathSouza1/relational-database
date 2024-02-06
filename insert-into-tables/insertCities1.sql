@@ -1,4 +1,4 @@
 INSERT INTO cities
-    (name, area, state_id)
+    (name, area, states_id)
 VALUES
     ("Campinas", 795, 25)
