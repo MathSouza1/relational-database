@@ -1,1 +1,1 @@
-DROP TABLE ID EXISTS cities;
+DROP TABLE IF EXISTS cities;
